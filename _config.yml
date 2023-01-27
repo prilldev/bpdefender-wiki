@@ -3,6 +3,12 @@ description: How to play Ballpark Defender - A Roblox Defense Strategy Game
 theme: just-the-docs
 
 url: https://prilldev.github.io/bpdefender-wiki
-
+  
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/prilldev/Roblox-BallparkDefender
+  "Ballpark Defender on GitHub":
+    - "//github.com/prilldev/Roblox-BallparkDefender"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
