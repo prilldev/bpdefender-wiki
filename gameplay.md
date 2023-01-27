@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Gameplay
-nav_order: 1
+nav_order: 2
 ---
+{% include page_banner.html %}
 
 # Game Start
 
