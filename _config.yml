@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Ballpark Defender Gameplay
+description: How to play Ballpark Defender - A Roblox Defense Strategy Game
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://prilldev.github.io/bpdefender-wiki
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/prilldev/Roblox-BallparkDefender
